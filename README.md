@@ -1,7 +1,6 @@
-# wordpress-notes
-All compiled notes for WordPress.
+# wordpress-plugin-notes
 
-<!-- SAMPLE CODE FOR THE CONTACT FORM 7 PLUGIN -->
+CONTACT FORM 7 SAMPLE
 
 <div class="contact-content">
 <div class="send-message">
